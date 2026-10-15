@@ -37,5 +37,7 @@ The badges are rendered offline by the generator in the Stellar Presence develop
 2. Copy the file over the one in `assets/badges/suisei/`, keeping the file name.
 3. Commit and push to `main`. Pages redeploys within a minute or two.
 
-Discord caches external images, so a changed file can take a while to show up. Giving a replaced design a new
-file name, and updating the app's theme config to match, makes the change take effect immediately.
+Discord's media proxy caches each external image URL for a year (`max-age=31536000`), so replacing a file under
+the same URL does not reach Discord. After replacing a file, bump its version query in the app's theme config
+(for example `comet-pause.png?v=2` -> `?v=3`). GitHub Pages ignores the query, but Discord treats it as a new
+image and fetches it fresh. Current versions: `comet-play.webp` (v1, no query), `comet-pause.png?v=2`.
