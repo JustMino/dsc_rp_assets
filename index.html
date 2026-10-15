@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Stellar Presence assets</title>
+<style>
+  :root { --fg: #e9edf3; --muted: #9aa3b2; --dark: #232428; --light: #f2f3f5; --page: #1a1b1e; }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 24px 16px 48px; background: var(--page); color: var(--fg);
+         font: 14px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 900px; margin: 0 auto; }
+  h1 { font-size: 20px; margin: 0 0 4px; }
+  p { color: var(--muted); margin: 0 0 20px; }
+  section { margin-bottom: 28px; }
+  h2 { font-size: 15px; margin: 0 0 10px; }
+  code { color: var(--fg); }
+  .row { display: flex; flex-wrap: wrap; gap: 12px; }
+  .panel { flex: 1 1 260px; border-radius: 10px; padding: 14px; display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
+  .dark { background: var(--dark); }
+  .light { background: var(--light); color: #333; }
+  .busy { background: linear-gradient(135deg, #ffd84d, #ff7eb6 40%, #6ad1ff 70%, #ffffff); }
+  figure { margin: 0; text-align: center; }
+  figcaption { font-size: 11px; color: var(--muted); margin-top: 4px; }
+  .light figcaption, .busy figcaption { color: #444; }
+  img { display: block; margin: 0 auto; image-rendering: auto; }
+  .round { border-radius: 50%; }
+  a { color: #8fb6ff; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Stellar Presence assets</h1>
+  <p>Small-image badges for a Discord Rich Presence. Each badge is shown at 128 px and at Discord's real badge
+     sizes (32 and 28 px, circle-cropped as Discord shows them) on dark, light and busy backgrounds.
+     <a href="https://github.com/JustMino/dsc_rp_assets">Repository</a></p>
+
+  <section>
+    <h2><code>assets/badges/suisei/comet-play.webp</code>: playing, animated (preferred)</h2>
+    <div class="row" data-src="assets/badges/suisei/comet-play.webp"></div>
+  </section>
+  <section>
+    <h2><code>assets/badges/suisei/comet-play.gif</code>: playing, animated GIF fallback</h2>
+    <div class="row" data-src="assets/badges/suisei/comet-play.gif"></div>
+  </section>
+  <section>
+    <h2><code>assets/badges/suisei/comet-play.png</code>: playing, still</h2>
+    <div class="row" data-src="assets/badges/suisei/comet-play.png"></div>
+  </section>
+  <section>
+    <h2><code>assets/badges/suisei/comet-pause.png</code>: paused</h2>
+    <div class="row" data-src="assets/badges/suisei/comet-pause.png"></div>
+  </section>
+</main>
+<script>
+  // One panel per background, each with the badge at 128 / 32 / 28 px
+  for (const row of document.querySelectorAll(".row[data-src]")) {
+    for (const bg of ["dark", "light", "busy"]) {
+      const panel = document.createElement("div");
+      panel.className = "panel " + bg;
+      for (const [size, round] of [[128, false], [32, true], [28, true]]) {
+        const fig = document.createElement("figure");
+        const img = document.createElement("img");
+        img.src = row.dataset.src;
+        img.width = img.height = size;
+        img.alt = row.dataset.src.split("/").pop() + " at " + size + " px";
+        if (round) img.className = "round";
+        const cap = document.createElement("figcaption");
+        cap.textContent = size + " px";
+        fig.append(img, cap);
+        panel.append(fig);
+      }
+      row.append(panel);
+    }
+  }
+</script>
+</body>
+</html>
