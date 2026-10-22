@@ -1,0 +1,1762 @@
+{
+ "version": 1,
+ "base": "https://justmino.github.io/dsc_rp_assets/assets/",
+ "files": {
+  "playing": "vinyl.webp",
+  "still": "vinyl.png"
+ },
+ "releases": [
+  {
+   "albumId": "MPREb_Ydw7YWlDHV3",
+   "group": "suisei",
+   "title": "SHINSEI MOKUROKU",
+   "type": "Album",
+   "year": "2025",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/HhyPWqVSNtEXfbqA8t0AJw28bk5-NKW220uMO0v2ptNoKWBbBZvuf-3hCUZrjpLYL5q8X28UkXmcViBw=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/shinsei-mokuroku-wldhv3",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "RpvCh0EhAZM",
+     "title": "先駆者 - Pathfinder",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "8ZP5eqm4JqM",
+     "title": "ビビデバ - BIBBIDIBA",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "UYEZL13MUFk",
+     "title": "AWAKE",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "JXvOlJOGU5Y",
+     "title": "ビーナスバグ - Venus Bug",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "UpEPkPg8YP4",
+     "title": "Caramel pain",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "UmN7Fr_Kf-8",
+     "title": "ムーンライト - Moonlight",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "Fg5-55vZwp0",
+     "title": "DEADPOOL (feat. KAF)",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "-7zY0TkIFG4",
+     "title": "レクイエム (星街すいせい ver.) - Rekuiemu (Hoshimachi Suisei ver.)",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "liCsjACEeJA",
+     "title": "ザイオン - XION",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "3cQakZcvBBg",
+     "title": "繭と心 - cocoon and heart",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "VPhLXeU25KA",
+     "title": "綺麗事 - Kireigoto",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_QXfDAG0cdyr",
+   "group": "suisei",
+   "title": "Specter",
+   "type": "Album",
+   "year": "2023",
+   "artists": [
+    "星街すいせい"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/i9jfiwtSoMcHJaOGjVKAOK64mUMHmv0Q2v0Gsk_OwF2o7anJ4pxtODrPw-Ily0CrnidORDoYKXhycWXvtQ=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/specter-g0cdyr",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "r1ZVPTCOCSQ",
+     "title": "灼熱にて純情(wii-wii-woo)",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "mBuHQeL-OO8",
+     "title": "TEMPLATE",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "4uqONJT6G-M",
+     "title": "みちづれ",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "Y6Ybz_yjQ6U",
+     "title": "褪せたハナミドリ",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "hD0TxCx5Ew0",
+     "title": "TRUE GIRL SHOW",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "BP59Bm6T3_I",
+     "title": "放送室",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "lBM2j13sdOs",
+     "title": "デビュタントボール",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "PcH8jff5kO0",
+     "title": "7days",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "PUJ9qXbLyfE",
+     "title": "Damn Good Day",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "mRgslQ5Z-kU",
+     "title": "ソワレ",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "oE6NCqdebn4",
+     "title": "Newton",
+     "artists": [
+      "星街すいせい"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_j8XaoI59CEs",
+   "group": "suisei",
+   "title": "Still Still Stellar",
+   "type": "Album",
+   "year": "2021",
+   "artists": [
+    "星街すいせい"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/qvhSqulRijoD_nxfT4eIUTKL7mDiqLxyMVlocdbCkY9qElFfP-ODFCMwZV-qYi4Ovq7jiLo4aPTMicXQ=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/still-still-stellar-i59ces",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "a51VH9BYzZA",
+     "title": "Stellar Stellar",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "vQHVGXdcqEQ",
+     "title": "NEXT COLOR PLANET （Still Still Stellar ver.）",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "zLak0dxBKpM",
+     "title": "天球、彗星は夜を跨いで （Still Still Stellar ver.）",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "IKKar5SS29E",
+     "title": "GHOST （Still Still Stellar ver.）",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "3DrYQMK4hJE",
+     "title": "バイバイレイニー （Still Still Stellar ver.）",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "Mm87JgTx2Ao",
+     "title": "自分勝手Dazzling （Still Still Stellar ver.）",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "ZfDYRy17CBY",
+     "title": "Bluerose （Still Still Stellar ver.）",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "3cqV5BKJHyk",
+     "title": "comet （Still Still Stellar ver.）",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "tQRk5OFsGXo",
+     "title": "Andromeda",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "X9sc0kxuo6I",
+     "title": "Je t'aime。",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "rth4htqJ1ZQ",
+     "title": "Starry Jet",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "IqT6cHCT1TE",
+     "title": "駆けろ （Still Still Stellar ver.）",
+     "artists": [
+      "星街すいせい"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_C2qv2UipA9c",
+   "group": "suisei",
+   "title": "GUM&DROP",
+   "type": "Single",
+   "year": "2026",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/Xd_gzqD3yOuD8EQslNrqW28uBfq9pTzP3nnOEkyatWUx-wJHOmn0uX4zpzShCUJ8R5cJnXoN5VjAshjf=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/gum-drop-uipa9c",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "uSDtkV3PXSA",
+     "title": "GUM&DROP",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_0O1WRIzqFFM",
+   "group": "suisei",
+   "title": "The Stargazing Girl",
+   "type": "Single",
+   "year": "2026",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/l1MtKDI4ufEbYHbGN7VtAP4gpgB55ry_kuvcDLA2hODBzgRndCZUDIEVotnHQavcZZ4r6y5l_9rNGDkH=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/the-stargazing-girl-izqffm",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "9ijHd0knEww",
+     "title": "星をみる少女 - The Stargazing Girl",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "VV77mu3-q-M",
+     "title": "星をみる少女 (Instrumental) - The Stargazing Girl (Instrumental)",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_5JOHbvRJBOo",
+   "group": "suisei",
+   "title": "Going My Way",
+   "type": "Single",
+   "year": "2026",
+   "artists": [
+    "AZKi",
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/pV9iSvUv0ugmNTKcWH3Taz96kGhjm6qklMgJw84-SrpYOB39lASzk5xt48iV92_d8iKh1lLDc2Lm--bW=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/going-my-way-vrjboo",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "2Z6f4XNNOls",
+     "title": "Going My Way",
+     "artists": [
+      "AZKi",
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "cwysw8Fzk_w",
+     "title": "Going My Way (Instrumental)",
+     "artists": [
+      "AZKi",
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_cRP3nbDBQ47",
+   "group": "suisei",
+   "title": "Prima Donna",
+   "type": "Single",
+   "year": "2026",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/HT-j9il8gwqTSMis7GDQxeVSDrnHhSYKWidaTAisVLQ6voJAkrn4bNDJjtva3UNkTrK7yX7it2cR-F0=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/prima-donna-bdbq47",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "M1GYqy0tHV0",
+     "title": "プリマドンナ - Prima Donna",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "8t5tAORR2Ao",
+     "title": "プリマドンナ (Instrumental) - Prima Donna (Instrumental)",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_4hNHM2pQUKI",
+   "group": "suisei",
+   "title": "Chatter Chatter",
+   "type": "Single",
+   "year": "2026",
+   "artists": [
+    "Houshou Marine",
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/Xz2_OIvS-KfRkhgZJYGqIf3FCFEXtJ-8g6lNao_CORoPq4KjabOrGfJAC22bmxK2lPpsTSek583fIFrO=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/chatter-chatter-2pquki",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "di9NZ6ja_mE",
+     "title": "Chatter Chatter",
+     "artists": [
+      "Houshou Marine",
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "xyBuK96AsR8",
+     "title": "Chatter Chatter (Instrumental)",
+     "artists": [
+      "Houshou Marine",
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_Qp1eSrNBxZX",
+   "group": "suisei",
+   "title": "Moonshot",
+   "type": "EP",
+   "year": "2026",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/vsVsxho1fafGzhjFJ9z05AoCT41WyDDrX2hBFOh9vhqSqt7SaM7LcGtiYj0rxKCrsjnaqqRs6Ka50EqI3A=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/moonshot-rnbxzx",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "DeAD2b1x3tQ",
+     "title": "月に向かって撃て - Moonshot",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "y8Md0KNRMZQ",
+     "title": "彗星 (Nor ver.) - Suisei (Nor ver.)",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "2kp67GHIIXQ",
+     "title": "comet (TAKU INOUE Remix)",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "DeAD2b1x3tQ",
+     "title": "月に向かって撃て (TVアニメver.) - Moonshot (TV anime ver.)",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "-MU1gg9dB6s",
+     "title": "月に向かって撃て (Instrumental) - Moonshot (Instrumental)",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_6CBYXg4bmAC",
+   "group": "suisei",
+   "title": "Suisei",
+   "type": "Single",
+   "year": "2025",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/MQ5eUZdT5AOJJSEreh6DU4Z4Cigu7KoO3JhGs8A_gSTjwggWebaUO7st6HH3zYkawDP7TddZHGw7kZQs=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/suisei-g4bmac",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "1YrG2WGeIJo",
+     "title": "彗星 - Suisei",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "BzTNgHHXTRg",
+     "title": "彗星 (Instrumental) - Suisei (Instrumental)",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_UEi7lz0EBVc",
+   "group": "suisei",
+   "title": "Bloom in the night",
+   "type": "Single",
+   "year": "2025",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/Zkd0oUY-FQQR3JI7dGXbcmfSP5IlL9CF7eoDcUfhikaywfYppdrRUAyhW7ut0Cz908c2Z-qe2XCk_AE=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/bloom-in-the-night-z0ebvc",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "cvsnofS1T64",
+     "title": "夜に咲く - Bloom in the night",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_BcUokOBefKR",
+   "group": "suisei",
+   "title": "I don't care",
+   "type": "Single",
+   "year": "2025",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/HCmLneOd33vAeuHpCe-GOf4qKszBm-9z0JdwndENeVJUksirXQkoykBR-nzjI_nZKCvZTdjHnAwxtWnp=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/i-don-t-care-obefkr",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "ojZaWERcbaI",
+     "title": "もうどうなってもいいや - I don't care",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_G5irNG6pTIF",
+   "group": "suisei",
+   "title": "Orbital Period",
+   "type": "Single",
+   "year": "2025",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/b7B2sZ_KQQ5qAnO75uS82kHONDoCc6UbVDL8WSQSrjqG0Hhw3CHxnje2LPhkd7zM5P81OF_pHogvsjej=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/orbital-period-g6ptif",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "jMSXPPSmsVo",
+     "title": "Orbital Period",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "ZSenRTCNqSk",
+     "title": "Orbital Period（Instrumental）",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_6WiU2i5NFib",
+   "group": "suisei",
+   "title": "I don't care - Movie edition -",
+   "type": "Single",
+   "year": "2025",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/YhPPb1GD6BwVxl5kyMaURBpUQOKQEL1cn61aCsX_BGKrLUofB-xoy5y3KSO34sYYGh_M3pt-aViVegU=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/i-don-t-care-movie-edition-i5nfib",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "ojZaWERcbaI",
+     "title": "もうどうなってもいいや - I don't care - Movie edition -",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_HpKxVAnjgqW",
+   "group": "suisei",
+   "title": "SWAY",
+   "type": "Single",
+   "year": "2024",
+   "artists": [
+    "KAF",
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/fC3-NYzEmoHYhVCR5o0V8_hr4lLgXgVbsk5bn15zGPKnKFAIxNRdkQZo-zjjM_yvacB63DXWXoRf7uKVJw=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/sway-anjgqw",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "vtEfALKX40E",
+     "title": "一世風靡 - SWAY",
+     "artists": [
+      "KAF",
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_uL7Q9Eh6x4n",
+   "group": "suisei",
+   "title": "AWAKE",
+   "type": "Single",
+   "year": "2024",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/rTJkTQI-SiKHRzEDmgLpIe5MH1HwE7eHVm9Uh5DuAmDGbmH6PYFrAAdlF6610N_UjUwRmgOc5YOPffk=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/awake-eh6x4n",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "UYEZL13MUFk",
+     "title": "AWAKE",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "KZgqyILS4Ys",
+     "title": "AWAKE（Instrumental）",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_nAF8N1cPOuD",
+   "group": "suisei",
+   "title": "Moonlight",
+   "type": "Single",
+   "year": "2024",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/UhzPG3bI1yx0pMf-GSHTBhnfPb7R9axNoE-rBNxOUu0z4bxjzWgTrAkEFZEJmcPPxwDUnDeD7erWfcaU=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/moonlight-1cpoud",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "UmN7Fr_Kf-8",
+     "title": "ムーンライト - Moonlight",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "e1yAwGMecVo",
+     "title": "ムーンライト（Instrumental） - Moonlight（Instrumental）",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_jQZuEiokxuA",
+   "group": "suisei",
+   "title": "ネバーフィクション",
+   "type": "Single",
+   "year": "2024",
+   "artists": [
+    "Kanaria",
+    "星街すいせい"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/HilElTRz2P_LqkIt37b22-O3lfWNpatlZwCIDiFvwem_PqOrqgHKGGGRpynXTGaPsJLqse5Mr8zVOFqzEQ=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/mpreb_jqzueiokxua",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "BuDK3aiMmIs",
+     "title": "ネバーフィクション",
+     "artists": [
+      "Kanaria",
+      "星街すいせい"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_E8Vnth7iSmc",
+   "group": "suisei",
+   "title": "BIBBIDIBA",
+   "type": "Single",
+   "year": "2024",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/1DopNi9zTEmkfaRpYecvrYNH--NCHV2N46qhD2tUR8htaidkshfSie00TK7zMmExBsFATJutl_ubrIU=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/bibbidiba-h7ismc",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "8ZP5eqm4JqM",
+     "title": "ビビデバ - BIBBIDIBA",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_0xO8BRGgyMk",
+   "group": "suisei",
+   "title": "BIBBIDIBA (Instrumental)",
+   "type": "Single",
+   "year": "2024",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/A9maswn5eoY0UprY6Q9giMP3ZD9nRRZw4FjA6igoUm4cXRnN0Fk9U9tj_iaFnXqq0oul1pkS9H6S0DSq=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/bibbidiba-h7ismc",
+   "sharesArtWith": "MPREb_E8Vnth7iSmc",
+   "tracks": [
+    {
+     "videoId": "utu5QQTVZhw",
+     "title": "ビビデバ（Instrumental） - BIBBIDIBA (Instrumental)",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_MGFqCywxCxC",
+   "group": "suisei",
+   "title": "XION",
+   "type": "Single",
+   "year": "2023",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/JrusxFygSF8z0XurTVwwBEuYKB4xlIo-TNUADZFL4L88aOvfiPYe8ahBdwhHusWtcqjWKNDmn4w5eA4k=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/xion-ywxcxc",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "liCsjACEeJA",
+     "title": "ザイオン - XION",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "aiDM8dQoU-0",
+     "title": "ザイオン（Instrumental） - XION（Instrumental）",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_ny1kIDaVlri",
+   "group": "suisei",
+   "title": "SUICHAN-NO-MAINTENANCE SONG",
+   "type": "Single",
+   "year": "2023",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/-k3bBs5dqEJ-SdYMitpat1h3x4-pKaRSPE4OsX_nO5RA6m9RvFPUHTYb6l0jmncH-aKDSh-OONWJmUOT=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/suichan-no-maintenance-song-davlri",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "KshZpLMCG9o",
+     "title": "スイちゃんのメンテナンスソング - SUICHAN-NO-MAINTENANCE SONG",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "gVLCqXFIYrs",
+     "title": "スイちゃんのメンテナンスソング（Instrumental） - SUICHAN-NO-MAINTENANCE SONG（Instrumental）",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_fQw6dURVzD0",
+   "group": "suisei",
+   "title": "みちづれ - From THE FIRST TAKE",
+   "type": "Single",
+   "year": "2023",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/Vpz_rSZAQRZU2HQX6Zmu_Rt2yM_-OpR65rohVDTeyHfZSUX2GzrlB9YN6DttK1OC1I_WtnaYkcXNwZrZ=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/from-the-first-take-urvzd0",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "IJzKfLBlFnk",
+     "title": "みちづれ - From THE FIRST TAKE",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_ODXnONR0NdA",
+   "group": "suisei",
+   "title": "Stellar Stellar - From THE FIRST TAKE",
+   "type": "Single",
+   "year": "2023",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/QOis_6kztCc7HfyL38XFw85SH29fctgtmTOuPRjrTsfAfErVmg_S5Wit9uuFDKU9QchSBzePJUWzgEMz=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/stellar-stellar-from-the-first-take-nr0nda",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "hK36XcHJkDU",
+     "title": "Stellar Stellar - From THE FIRST TAKE",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_YKmhN5lNfxL",
+   "group": "suisei",
+   "title": "Pathfinder",
+   "type": "Single",
+   "year": "2023",
+   "artists": [
+    "星街すいせい"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/OV-M2Xmd6v_mQQsGTSDO1YFgrtDJCKy-ikXNEaGO-aOTgyttz_-34nxuN9xHRxsglaGviSOBYgYQ3NRe=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/pathfinder-5lnfxl",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "pIWFkkBM5DU",
+     "title": "先駆者",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "o0fg8QvPDOo",
+     "title": "先駆者 （Instrumental）",
+     "artists": [
+      "星街すいせい"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_YXYpJinCj0i",
+   "group": "suisei",
+   "title": "soirée",
+   "type": "Single",
+   "year": "2022",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/UmJ9U8oeISpUN0hg8T7leRnfm6XxFcgPk9VSEsTE5zh4pYMOZTDroolXG-YGoj-P5GIJYxPdIiJiVGM=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/soir-e-incj0i",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "mRgslQ5Z-kU",
+     "title": "ソワレ - soirée",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "KqK28sk4B-c",
+     "title": "ソワレ （Instrumental） - soirée （Instrumental）",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_9u0INl1j2Wj",
+   "group": "suisei",
+   "title": "My Happy Transmission",
+   "type": "Single",
+   "year": "2022",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/ONObZSKNE3E4VmHMu4jtvC1ICypOVYBfWEfc1vjY-uwlqrlDd-ngaIWMBzkyNQr7rx5MAAnmiGO4DowL=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/my-happy-transmission-l1j2wj",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "BP59Bm6T3_I",
+     "title": "放送室 - My Happy Transmission",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "ZpYmzPHhMc0",
+     "title": "放送室 （Instrumental） - My Happy Transmission （Instrumental）",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_7epglaPtnrz",
+   "group": "suisei",
+   "title": "syakunetsu nite junjou(wii-wii-woo)",
+   "type": "Single",
+   "year": "2022",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/yzFrXRzhmB-S3S0PVtuJclCfgb5t4jo83twZCpwdlITucNJlHAvLrJqvx1Fm1gxpAS8qvOyIvOPfj11D=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/syakunetsu-nite-junjou-wii-wii-woo-aptnrz",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "r1ZVPTCOCSQ",
+     "title": "灼熱にて純情(wii-wii-woo) - syakunetsu nite junjou(wii-wii-woo)",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "YwM10c88a28",
+     "title": "灼熱にて純情(wii-wii-woo)　（Instrumental） - syakunetsu nite junjou(wii-wii-woo) （Instrumental）",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_Nz6Xt3qoidL",
+   "group": "suisei",
+   "title": "CapSule",
+   "type": "Single",
+   "year": "2022",
+   "artists": [
+    "Mori Calliope",
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/nXGtSCi_Uc3oCKyc_cPr3IymddC2dIE-jJd-ZomD1ftNn__e3ytOabwYbM_k9V6HWYdQHqXpNPlhw_Bx=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/capsule-3qoidl",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "M85xU-tbQ6c",
+     "title": "CapSule (feat. Hoshimachi Suisei)",
+     "artists": [
+      "Mori Calliope",
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_3CvANHfJ4zs",
+   "group": "suisei",
+   "title": "TEMPLATE／Wicked",
+   "type": "EP",
+   "year": "2022",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/VQLIIs2jHf84_YY-_3jZU1DSh4igWqE2UiSmoOU9e9ooCL524k--JS-XU-48dfwJNGJNzr_4SpiLZ_Dw=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/template-wicked-hfj4zs",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "mBuHQeL-OO8",
+     "title": "TEMPLATE",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "88QKF3yuiyI",
+     "title": "Wicked (feat. Mori Calliope)",
+     "artists": [
+      "Hoshimachi Suisei",
+      "Mori Calliope"
+     ]
+    },
+    {
+     "videoId": "jlit0zFtMxw",
+     "title": "TEMPLATE （Instrumental）",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "OKqrzEr79j8",
+     "title": "Wicked （Instrumental） (feat. Mori Calliope)",
+     "artists": [
+      "Hoshimachi Suisei",
+      "Mori Calliope"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_WohlZoIGg0l",
+   "group": "suisei",
+   "title": "OUT OF FRAME",
+   "type": "Single",
+   "year": "2021",
+   "artists": [
+    "星街すいせい",
+    "戌亥とこ"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/JHvKOy-LuTIYa1eWy33GHM8Z_goSuu6p7qCi3EtUFRpmpWxyo4EYn02BBoI5zEt_Y908zxe1KinZshrO8g=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/out-of-frame-oigg0l",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "D9699zGTOBk",
+     "title": "OUT OF FRAME",
+     "artists": [
+      "星街すいせい",
+      "戌亥とこ"
+     ]
+    },
+    {
+     "videoId": "5HH7Ba8n5Kw",
+     "title": "OUT OF FRAME （Instrumental）",
+     "artists": [
+      "星街すいせい",
+      "戌亥とこ"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_mK9GYqK2Tby",
+   "group": "suisei",
+   "title": "The Last Frontier",
+   "type": "Single",
+   "year": "2021",
+   "artists": [
+    "AZKi",
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/Ts7f3Tfk41hiKiwha536LTRnu37nCwFEa1GJs7fShaABeugAqxWlJJhMFEo84jUiJeu3LNoxmnbLYwE=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/the-last-frontier-qk2tby",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "-9wUbw5qevU",
+     "title": "The Last Frontier",
+     "artists": [
+      "AZKi",
+      "Hoshimachi Suisei"
+     ]
+    },
+    {
+     "videoId": "JY1dl07ckpI",
+     "title": "The Last Frontier（Instrumental）",
+     "artists": [
+      "AZKi",
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_pZ9jGebE3ht",
+   "group": "suisei",
+   "title": "自分勝手Dazzling / バイバイレイニー",
+   "type": "EP",
+   "year": "2021",
+   "artists": [
+    "星街すいせい"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/kJqhyf8TwD-dmPmKvt_jSreDGo61AV0EdsfDwWafpUDMc68ddesfeHV2uJOMd3HsyQ7w-ogLPAADlAKyhA=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/dazzling-ebe3ht",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "Mm87JgTx2Ao",
+     "title": "自分勝手Dazzling",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "3DrYQMK4hJE",
+     "title": "バイバイレイニー",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "yJN-0JG-CnI",
+     "title": "自分勝手Dazzling（Instrumental）",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "dxuzpklP1Rk",
+     "title": "バイバイレイニー（Instrumental）",
+     "artists": [
+      "星街すいせい"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_y71BZiZY66b",
+   "group": "suisei",
+   "title": "Sanji Juunihun",
+   "type": "Single",
+   "year": "2021",
+   "artists": [
+    "TAKU INOUE",
+    "HOSHIMACHI SUISEI"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/cs2LIfKeyCVTuT-jKFaPIEGb_N4dXa4-mPQgcoAl-kEtEw0yD6hHpyOi7gJ8zAbdU9wYM3qSrYCgOtzGFA=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/sanji-juunihun-izy66b",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "LYFciXBcXIQ",
+     "title": "3時12分 - Sanji Juunihun",
+     "artists": [
+      "TAKU INOUE",
+      "HOSHIMACHI SUISEI"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_RqJAS0LICnd",
+   "group": "suisei",
+   "title": "駆けろ / 天球、彗星は夜を跨いで",
+   "type": "EP",
+   "year": "2021",
+   "artists": [
+    "星街すいせい"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/tfSwN8cog4MuFT8Jc9g_NkOv7SG1NO4G7LflHN2MMUal3NhfQpLs-DNBWy57ZJ_kvhjjLZlb2ohoLz2k=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/mpreb_rqjas0licnd",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "IqT6cHCT1TE",
+     "title": "駆けろ",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "zLak0dxBKpM",
+     "title": "天球、彗星は夜を跨いで",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "1gScCSRgupQ",
+     "title": "駆けろ（Instrumental）",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "tHR9WFXBtjA",
+     "title": "天球、彗星は夜を跨いで（Instrumental）",
+     "artists": [
+      "星街すいせい"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_l947H2RjsY4",
+   "group": "suisei",
+   "title": "Bluerose / comet",
+   "type": "EP",
+   "year": "2021",
+   "artists": [
+    "星街すいせい"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/osqAhBOyIG5IhObltSG3YbBsoWDF7PWub8a36PHybw7U6LMCcUUg11V2X-DdhxUa13gSZ5Dvaz0E0FDI=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/bluerose-comet-2rjsy4",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "ZfDYRy17CBY",
+     "title": "Bluerose",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "3cqV5BKJHyk",
+     "title": "comet",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "LpJXc5_uIak",
+     "title": "Bluerose（Instrumental）",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "mRIMbLlkbhk",
+     "title": "comet（Instrumental）",
+     "artists": [
+      "星街すいせい"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_I2LPRXb26YG",
+   "group": "suisei",
+   "title": "GHOST",
+   "type": "Single",
+   "year": "2021",
+   "artists": [
+    "星街すいせい"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/um4uNuFJPN5is3kZ9dYR3SJ_jyRhEc4WxeoSsz-GaUCOcEILgey56NLlrRT47Q7A36lH2BgDItSji1k=w544-h544-s-l90-rj",
+   "asset": "vinyl/suisei/ghost-xb26yg",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "IKKar5SS29E",
+     "title": "GHOST",
+     "artists": [
+      "星街すいせい"
+     ]
+    },
+    {
+     "videoId": "iSKJ6uJHWCs",
+     "title": "GHOST(Instrumental)",
+     "artists": [
+      "星街すいせい"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_6nNrl0jXFHt",
+   "group": "suisei",
+   "title": "NEXT COLOR PLANET",
+   "type": "Single",
+   "year": "2020",
+   "artists": [
+    "星街すいせい"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/nfOI6_q2_kl6GbJsAwPbeKY8Ukf72FsutbZ8wE-3ohGmK-Z57RaELA-ecNXj9ufnCKe0jcewVvOmctKp2A=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/next-color-planet-0jxfht",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "vQHVGXdcqEQ",
+     "title": "NEXT COLOR PLANET",
+     "artists": [
+      "星街すいせい"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_KCMKZg8xata",
+   "group": "suisei",
+   "title": "The Last Frontier - 5th fes. Live ver. -",
+   "type": "Single",
+   "year": "2024",
+   "artists": [
+    "AZKi",
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/DdN9EdVL57iVUIHSe4lyyOZ8c02z1XECH08T-HXtfRjVw0sXvkhCMBRcrVJWDjIMlO1OO-KINw6lfU-N=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/the-last-frontier-5th-fes-live-ver-g8xata",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "GW44zWPz2jg",
+     "title": "The Last Frontier - 5th fes. Live ver. -",
+     "artists": [
+      "AZKi",
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_c5a3ulHi87t",
+   "group": "suisei",
+   "title": "BIBBIDIBA - BloodPop® Remix",
+   "type": "Single",
+   "year": "2024",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/WW63vlbdDczqoz9ALJLqeg7kPOQF2FcpKD7-7FiSyYpGGSdhY2jyPJt0AmQFNSSFCxsXtqWfwzU-0-gFRw=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/bibbidiba-bloodpop-remix-lhi87t",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "1y3LHzRXFpQ",
+     "title": "ビビデバ - BloodPop® Remix - BIBBIDIBA - BloodPop® Remix",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_06w32XDTSg2",
+   "group": "mgo",
+   "title": "Starpeggio",
+   "type": "Album",
+   "year": "2023",
+   "artists": [
+    "Midnight Grand Orchestra"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/tdXw05mzxWRinFyBSCyA-ryFGs869GgRCfOZ28aI5ZUs16mjv26rXf3bwYa9oCZRJ6jIgwgh9Vl-wrxcjw=w544-h544-l90-rj",
+   "asset": "vinyl/mgo/starpeggio-xdtsg2",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "E7vRM5PMsTc",
+     "title": "Light The Light",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    },
+    {
+     "videoId": "NI8KqzCvFsc",
+     "title": "Moonlightspeed",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    },
+    {
+     "videoId": "h0JrFYBqgEU",
+     "title": "Midnight Mission",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    },
+    {
+     "videoId": "p_jdrqhPSV4",
+     "title": "Igniter",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    },
+    {
+     "videoId": "fT4qgGlEDjU",
+     "title": "Blackhole Dancehall",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    },
+    {
+     "videoId": "QKfYTZwA9Bw",
+     "title": "Starpeggio",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    },
+    {
+     "videoId": "Ap9ymdj1QXE",
+     "title": "ソリロキー - Soliloquy",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    },
+    {
+     "videoId": "kX7ldIKFD60",
+     "title": "夜を待つよ - I'll Wait For The Night",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_adjp1HdvMRf",
+   "group": "mgo",
+   "title": "Overture",
+   "type": "Album",
+   "year": "2022",
+   "artists": [
+    "Midnight Grand Orchestra"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/-Z7BCX0vjkqd-Ph9il9NdIeZ15SwYBXwm6D5qTB_60EyuXWrxPq_HxJhQb9HFR48wXoq7yt_BgY1sU8=w544-h544-l90-rj",
+   "asset": "vinyl/mgo/overture-hdvmrf",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "dgXrJqaEWc8",
+     "title": "Never Ending Midnights",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    },
+    {
+     "videoId": "gjQugctqXt0",
+     "title": "SOS",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    },
+    {
+     "videoId": "1ltwIC3oTBg",
+     "title": "Allegro",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    },
+    {
+     "videoId": "bb2TnCOWXrE",
+     "title": "Rat A Tat",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    },
+    {
+     "videoId": "V1fF9S39_4U",
+     "title": "Tuning (Interlude)",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    },
+    {
+     "videoId": "hjepvLX-Gfs",
+     "title": "流星群 - Ryuseigun",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    },
+    {
+     "videoId": "5qwPLurdPsk",
+     "title": "Highway",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_E7kaJRcihOX",
+   "group": "mgo",
+   "title": "Travelogue I",
+   "type": "EP",
+   "year": "2026",
+   "artists": [
+    "Midnight Grand Orchestra"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/fchGQMMl8VZMNqhcRB5OvQnHr7-udzZoNuFKi50poUCrjd-ahM25ElXG0ROwkhy7UebSBa-tUvOOeLosYw=w544-h544-l90-rj",
+   "asset": "vinyl/mgo/travelogue-i-rcihox",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "FcNJfwfW52A",
+     "title": "Hyper Vip",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    },
+    {
+     "videoId": "kj4j4nkbi8Q",
+     "title": "Nonsense",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    },
+    {
+     "videoId": "h8lP4QtXWzY",
+     "title": "閃光 - The Flash",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    },
+    {
+     "videoId": "2RkLrMWF4pw",
+     "title": "404",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_TUUtfMIu7cB",
+   "group": "mgo",
+   "title": "Midnight Mission",
+   "type": "Single",
+   "year": "2023",
+   "artists": [
+    "Midnight Grand Orchestra"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/1o6MRnBU55_UG_FIdkjDPM8keIczEphU4rhFqDQCxQrwSQkf5oh3uOn9_WZ-ScwP2LRcV9PSECwXeWM47g=w544-h544-l90-rj",
+   "asset": "vinyl/mgo/midnight-mission-miu7cb",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "h0JrFYBqgEU",
+     "title": "Midnight Mission",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_gL0sUWjArqa",
+   "group": "mgo",
+   "title": "I'll Wait For The Night",
+   "type": "Single",
+   "year": "2023",
+   "artists": [
+    "Midnight Grand Orchestra"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/K_iZjMq-xKNsRuG5oiQH3xBG0hYIAu_9LeB55IiQ0f5_KvwzjuvsYzG5Y_Ig-uvTP9tLKCH8Iou7bVwQ=w544-h544-l90-rj",
+   "asset": "vinyl/mgo/i-ll-wait-for-the-night-wjarqa",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "kX7ldIKFD60",
+     "title": "夜を待つよ - I'll Wait For The Night",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_2qbtt0QXayV",
+   "group": "mgo",
+   "title": "Moonlightspeed",
+   "type": "Single",
+   "year": "2022",
+   "artists": [
+    "Midnight Grand Orchestra"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/tQCRh2_HP2GEQ0dyWqEvfafZH3_9QKFYcrIw-WU2P10Yq2Hnx60GHflqXd8tslSxEFYzsxEkcz9ac4CciA=w544-h544-l90-rj",
+   "asset": "vinyl/mgo/moonlightspeed-0qxayv",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "NI8KqzCvFsc",
+     "title": "Moonlightspeed",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_3cgyyNbYv9R",
+   "group": "mgo",
+   "title": "Highway",
+   "type": "Single",
+   "year": "2022",
+   "artists": [
+    "Midnight Grand Orchestra"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/0vd2M7u8xnrdp0wlP5GMT7PgvCJpl3Uv9lOwPiH7kaXlsdopX2_O28oecwtQdnfJA_lnQ5UzKlih-cICvg=w544-h544-l90-rj",
+   "asset": "vinyl/mgo/overture-hdvmrf",
+   "sharesArtWith": "MPREb_adjp1HdvMRf",
+   "tracks": [
+    {
+     "videoId": "5qwPLurdPsk",
+     "title": "Highway",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    }
+   ]
+  },
+  {
+   "albumId": "MPREb_eUpb4oFcbpB",
+   "group": "mgo",
+   "title": "SOS",
+   "type": "Single",
+   "year": "2022",
+   "artists": [
+    "Midnight Grand Orchestra"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/tAD2W2_V1ok1GULII5nyQuS4Vi6kysBF_TUKLwSrwSUZMyYi043OBae415wmSGX-yh6mxA2xdhut0Ic9rA=w544-h544-l90-rj",
+   "asset": "vinyl/mgo/sos-ofcbpb",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "gjQugctqXt0",
+     "title": "SOS",
+     "artists": [
+      "Midnight Grand Orchestra"
+     ]
+    }
+   ]
+  }
+ ],
+ "videoConflicts": [
+  {
+   "videoId": "ojZaWERcbaI",
+   "kept": "MPREb_BcUokOBefKR",
+   "alsoOn": "MPREb_6WiU2i5NFib"
+  },
+  {
+   "videoId": "UYEZL13MUFk",
+   "kept": "MPREb_Ydw7YWlDHV3",
+   "alsoOn": "MPREb_uL7Q9Eh6x4n"
+  },
+  {
+   "videoId": "UmN7Fr_Kf-8",
+   "kept": "MPREb_Ydw7YWlDHV3",
+   "alsoOn": "MPREb_nAF8N1cPOuD"
+  },
+  {
+   "videoId": "8ZP5eqm4JqM",
+   "kept": "MPREb_Ydw7YWlDHV3",
+   "alsoOn": "MPREb_E8Vnth7iSmc"
+  },
+  {
+   "videoId": "liCsjACEeJA",
+   "kept": "MPREb_Ydw7YWlDHV3",
+   "alsoOn": "MPREb_MGFqCywxCxC"
+  },
+  {
+   "videoId": "mRgslQ5Z-kU",
+   "kept": "MPREb_QXfDAG0cdyr",
+   "alsoOn": "MPREb_YXYpJinCj0i"
+  },
+  {
+   "videoId": "BP59Bm6T3_I",
+   "kept": "MPREb_QXfDAG0cdyr",
+   "alsoOn": "MPREb_9u0INl1j2Wj"
+  },
+  {
+   "videoId": "r1ZVPTCOCSQ",
+   "kept": "MPREb_QXfDAG0cdyr",
+   "alsoOn": "MPREb_7epglaPtnrz"
+  },
+  {
+   "videoId": "mBuHQeL-OO8",
+   "kept": "MPREb_QXfDAG0cdyr",
+   "alsoOn": "MPREb_3CvANHfJ4zs"
+  },
+  {
+   "videoId": "Mm87JgTx2Ao",
+   "kept": "MPREb_j8XaoI59CEs",
+   "alsoOn": "MPREb_pZ9jGebE3ht"
+  },
+  {
+   "videoId": "3DrYQMK4hJE",
+   "kept": "MPREb_j8XaoI59CEs",
+   "alsoOn": "MPREb_pZ9jGebE3ht"
+  },
+  {
+   "videoId": "IqT6cHCT1TE",
+   "kept": "MPREb_j8XaoI59CEs",
+   "alsoOn": "MPREb_RqJAS0LICnd"
+  },
+  {
+   "videoId": "zLak0dxBKpM",
+   "kept": "MPREb_j8XaoI59CEs",
+   "alsoOn": "MPREb_RqJAS0LICnd"
+  },
+  {
+   "videoId": "ZfDYRy17CBY",
+   "kept": "MPREb_j8XaoI59CEs",
+   "alsoOn": "MPREb_l947H2RjsY4"
+  },
+  {
+   "videoId": "3cqV5BKJHyk",
+   "kept": "MPREb_j8XaoI59CEs",
+   "alsoOn": "MPREb_l947H2RjsY4"
+  },
+  {
+   "videoId": "IKKar5SS29E",
+   "kept": "MPREb_j8XaoI59CEs",
+   "alsoOn": "MPREb_I2LPRXb26YG"
+  },
+  {
+   "videoId": "vQHVGXdcqEQ",
+   "kept": "MPREb_j8XaoI59CEs",
+   "alsoOn": "MPREb_6nNrl0jXFHt"
+  },
+  {
+   "videoId": "h0JrFYBqgEU",
+   "kept": "MPREb_06w32XDTSg2",
+   "alsoOn": "MPREb_TUUtfMIu7cB"
+  },
+  {
+   "videoId": "kX7ldIKFD60",
+   "kept": "MPREb_06w32XDTSg2",
+   "alsoOn": "MPREb_gL0sUWjArqa"
+  },
+  {
+   "videoId": "NI8KqzCvFsc",
+   "kept": "MPREb_06w32XDTSg2",
+   "alsoOn": "MPREb_2qbtt0QXayV"
+  },
+  {
+   "videoId": "5qwPLurdPsk",
+   "kept": "MPREb_adjp1HdvMRf",
+   "alsoOn": "MPREb_3cgyyNbYv9R"
+  },
+  {
+   "videoId": "gjQugctqXt0",
+   "kept": "MPREb_adjp1HdvMRf",
+   "alsoOn": "MPREb_eUpb4oFcbpB"
+  }
+ ]
+}
