@@ -290,6 +290,28 @@
    ]
   },
   {
+   "albumId": "MPREb_hK4h0dohnYM",
+   "group": "suisei",
+   "title": "Zombie Zombie Zombie",
+   "type": "Single",
+   "year": "2026",
+   "artists": [
+    "Hoshimachi Suisei"
+   ],
+   "sourceCover": "https://yt3.googleusercontent.com/AB6N0H1rUMD33oEWvie4Ww811NayJaSQYT6uEfMET_GoJWIWvIfW3NoWO0Mc-FZTl8L6EqrPBYqMCPTN=w544-h544-l90-rj",
+   "asset": "vinyl/suisei/zombie-zombie-zombie-dohnym",
+   "sharesArtWith": null,
+   "tracks": [
+    {
+     "videoId": "AZvVbDcSaEY",
+     "title": "ゾンビゾンビゾンビ - Zombie Zombie Zombie",
+     "artists": [
+      "Hoshimachi Suisei"
+     ]
+    }
+   ]
+  },
+  {
    "albumId": "MPREb_C2qv2UipA9c",
    "group": "suisei",
    "title": "GUM&DROP",
