@@ -3,7 +3,9 @@
  "base": "https://justmino.github.io/dsc_rp_assets/assets/",
  "files": {
   "playing": "vinyl.webp",
-  "still": "vinyl.png"
+  "still": "vinyl.png",
+  "krakenPlaying": "kraken.mp4",
+  "krakenStill": "kraken.png"
  },
  "releases": [
   {
